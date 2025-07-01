@@ -1,4 +1,4 @@
-# X-TFCLIP
+#  X-TFCLIP: An Extended TF-CLIP Method Adapted to Aerial-Ground Person ReIdentification
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
