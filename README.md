@@ -17,6 +17,11 @@ X-TFCLIP improves over TF-CLIP across all metrics in the [AG-VPReID](https://ope
 | **TF-CLIP**    | 63.08 | 75.16 | 79.89 | 65.52 | 64.49 | 79.86 | 83.97 | 67.07 | 63.75 | 77.40 | 81.83 | 66.26 |
 
 ---
+## Available checkpoint
+
+Please feel free to download the fully trained checkpoint from the following [link](https://drive.google.com/drive/u/0/folders/1fvECkDKBBzdzuMI2Y3qxoPZK1hamatX9).
+
+---
 ## Environment Setup
 ```bash
 # Create and activate environment
